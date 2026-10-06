@@ -1,0 +1,5 @@
+# Ship only the page itself
+*
+!index.html
+!.nojekyll
+!.gitignore
